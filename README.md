@@ -1,6 +1,3 @@
-# oe-events-guillotinepersoon
-Een variant op het gekende (of minder gekende) hangman
-
 # Hangman
 Maak een variant op Hangman
 # Logica
